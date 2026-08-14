@@ -1,4 +1,4 @@
-# 可爱的云 · 风格指南 (Lovely Cloud Style Guide)
+# 一朵小可爱 · 风格指南 (Lovely Cloud Style Guide)
 
 ## 一、风格定义
 Cloud Spirit 的核心不是“把云画成卡通”，而是“从云里认出灵气”。

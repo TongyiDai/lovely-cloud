@@ -8,7 +8,7 @@
 
 ---
 
-# 可爱的云 · Lovely Cloud
+# 一朵小可爱 · Lovely Cloud
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent%20Skill-lovely--cloud-2F6BFF" alt="Agent Skill">
@@ -84,7 +84,7 @@
 ```text
 lovely-cloud/
 ├── SKILL.md                    # 主指令 + 生成执行 Prompt
-├── agents/openai.yaml          # UI 展示元数据（display_name: 可爱的云）
+├── agents/openai.yaml          # UI 展示元数据（display_name: 一朵小可爱）
 ├── references/style-guide.md   # 角色判断法、装饰排序、色彩、失败案例、批量一致性
 ├── assets/boards/              # 前后对比示例图
 └── LICENSE

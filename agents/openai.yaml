@@ -1,4 +1,4 @@
 interface:
-  display_name: "可爱的云"
+  display_name: "一朵小可爱"
   short_description: "上传云朵照片，用极克制的手绘表情轻轻点出这朵云本来就有的灵气"
   default_prompt: "用 $lovely-cloud 给我这张云朵照片加个可爱的表情"
