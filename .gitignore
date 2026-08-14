@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Local render/preview scratch (boards are committed under assets/boards/)
+/tmp/
+*-preview.png
+preview-*.png
+
+# Python
+__pycache__/
+*.pyc
