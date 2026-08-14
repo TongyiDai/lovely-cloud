@@ -39,33 +39,33 @@
 
 ## 效果对比｜Before → After
 
-下面用 4 张公开授权的真实云照（来源见文末），跑出前后对比。
+下面用 3 张公开授权的真实云照（来源见文末），跑出前后对比——左边是原图，右边是 `lovely-cloud` 顺着云形点出的角色。
 
-<!-- AFTER 图待补：把生成结果命名为 cloud-N-after.jpg 放入 assets/boards/ 后，取消下方注释即可 -->
-
-**① 饱满团子 → 圆头小狗**
+**① 竖幅团云 → 抱抱小熊**
 
 <p align="center">
-  <img src="./assets/boards/cloud-1-before.jpg" width="45%" alt="原图：一朵饱满的白色积云" />
+  <img src="./assets/boards/cloud-1-before.jpg" width="38%" alt="原图：竖幅深蓝天空里一朵饱满积云" />
+  &nbsp;&nbsp;
+  <img src="./assets/boards/cloud-1-after.jpg" width="38%" alt="效果：同一朵云被点成一只抱抱小熊" />
 </p>
 
-**② 侧脸轮廓 → 呆萌小猫**
+**② 横向蓬松云 → 呆萌小狗**
 
 <p align="center">
-  <img src="./assets/boards/cloud-2-before.jpg" width="45%" alt="原图：蓝天下一朵横向蓬松云" />
+  <img src="./assets/boards/cloud-2-before.jpg" width="45%" alt="原图：浅蓝天下一朵横向蓬松云" />
+  &nbsp;&nbsp;
+  <img src="./assets/boards/cloud-2-after.jpg" width="45%" alt="效果：同一朵云被点成一只呆萌小狗" />
 </p>
 
-**③ 轻盈团云 → 轻表情治愈款**
-
-<p align="center">
-  <img src="./assets/boards/cloud-3-before.jpg" width="45%" alt="原图：几朵通透明亮的白云" />
-</p>
-
-**④ 强对比单云 → 戴眼镜的角色**
+**③ 深蓝孤云 → 圆脸小猫**
 
 <p align="center">
   <img src="./assets/boards/cloud-4-before.jpg" width="45%" alt="原图：深蓝天空里一朵孤云" />
+  &nbsp;&nbsp;
+  <img src="./assets/boards/cloud-4-after.jpg" width="45%" alt="效果：同一朵云被点成一只圆脸小猫" />
 </p>
+
+> 每一张都保留了原图的天空、光影和留白，只在云上加了最少的几笔。
 
 ## 怎么用
 
@@ -94,7 +94,7 @@ lovely-cloud/
 
 对比图的原始云照来自 [Unsplash](https://unsplash.com)（免费可商用），感谢摄影师：
 
-- ① [Ivan Nemchinov](https://unsplash.com/@ionemchinov) · ② [林 小小](https://unsplash.com/@smalllin) · ③ [Andreas Felske](https://unsplash.com/@andreasfelske) · ④ [Bill Eccles](https://unsplash.com/@bill_eccles)
+- ① 小熊 [Ivan Nemchinov](https://unsplash.com/@ionemchinov) · ② 小狗 [林 小小](https://unsplash.com/@smalllin) · ③ 小猫 [Bill Eccles](https://unsplash.com/@bill_eccles)
 
 ## License
 
