@@ -8,7 +8,7 @@
 
 ---
 
-# 一朵小可爱 · Lovely Cloud
+<h1 align="center">一朵小可爱 · Lovely Cloud</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent%20Skill-lovely--cloud-2F6BFF" alt="Agent Skill">
